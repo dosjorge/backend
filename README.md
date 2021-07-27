@@ -59,7 +59,7 @@ Edite [env.sample](/env.sample) y guardelo como [.env](/.env) (no olvide borrar 
 
 ### Programar controladores y rutas
 
-Programe los controladores en [routes/](/routes/) y agregue las rutas correspondientes a app.js ([Documentación](https://expressjs.com/en/guide/routing.html#express-router)). Se recomienda en lo posible utilizar mecanismos de autenticación, se recomienda [Passport](http://www.passportjs.org/) para ello.
+Programe los controladores en [controllers/](/controllers/) y las rutas correspondientes en [routes/](/routes/) ([Documentación](https://expressjs.com/en/guide/routing.html#express-router)). Se recomienda en lo posible utilizar mecanismos de autenticación, se recomienda [Passport](http://www.passportjs.org/) para ello.
 
 ### Como ejecutar proyecto
 
