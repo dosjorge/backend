@@ -10,7 +10,7 @@
     "node": ">=12.0.0"
   },
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.19.2",
     "consign": "^0.1.6",
     "cookie-parser": "~1.4.6",
     "debug": "~4.3.2",
